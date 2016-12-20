@@ -1,0 +1,23 @@
+body {
+    background-color:#94bf82;
+    font-family: Proza Libre;
+}
+
+h1 {
+   color:#f03;
+   text-align:center;
+}
+
+p {
+   color:#000;
+   font-size: 20px;
+}
+
+.buttonPara {
+   text-align: center;
+}
+
+button {
+   color:#069;
+   font-weight: bold;
+}
